@@ -68,7 +68,7 @@ body {
   max-width: 15em;
 }
 
-.btn-big {
+.btn {
   display: inline-block;
   font-size: 1.5rem;
   padding: .5em .75em;
@@ -78,5 +78,5 @@ body {
   margin-top: .9em;
 }
 
-.btn-big:hover {
+.btn:hover {
   background-color: #000;
